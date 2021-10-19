@@ -1,0 +1,4 @@
+TagName,Type,Value
+Boiler.P3.Value,Float,3.2
+Boiler.P4.Value,Float,3.2
+Boiler.T2.SP,Int,83
